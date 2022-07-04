@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shell-raiser/firebase-demo/issues"
   },
-  "homepage": "https://github.com/shell-raiser/firebase-demo#readme"
+  "homepage": "https://github.com/shell-raiser/firebase-demo#readme",
+  "dependencies": {
+    "firebase": "^9.8.4"
+  }
 }
